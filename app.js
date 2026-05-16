@@ -454,4 +454,3 @@ server.listen(PORT, () => {
 
 export default app;
 
-//here is the complete code for app.js with all the fixes and enhancements implemented. This should resolve the issue of multiple sockets in the same room and ensure that only one active connection exists per deviceId.
